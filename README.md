@@ -5,6 +5,11 @@ In the Udemy course we create React Native App to show different tech stacks. We
 
 This is the api to get the same data.
 
+
+## Postman
+
+GET localhost:3000/stacks
+
 ## Please Follow the instructions to import the data from this API
 
 
