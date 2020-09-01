@@ -1,24 +1,10 @@
-# README
+# Tech Stack Api 
+## Based on the udemy cours The Complete React Native + Hooks Course
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In the Udemy course we create React Native App to show different tech stacks. We add the data hardcoded on a json file in the app.
 
-Things you may want to cover:
+This is the api to get the same data.
 
-* Ruby version
+## Please Follow the instructions to import the data from this API
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
